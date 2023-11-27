@@ -5,4 +5,4 @@ This year I decided to change my life. I began to study in Netology. I got a job
 
 _My goal is to become an IT professional._
 
-# Netology wish me luck!!!
+# Netology wish me ~~luck~~ succes!!!
